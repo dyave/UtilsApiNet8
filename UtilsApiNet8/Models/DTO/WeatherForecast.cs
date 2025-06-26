@@ -1,4 +1,4 @@
-namespace UtilsApiNet8
+namespace UtilsApiNet8.Models.DTO
 {
     public class WeatherForecast
     {
